@@ -1,0 +1,4 @@
+baseURL: https://freeflight.org.uk/
+locale: en-GB
+title: Freeflight
+theme: ["PaperMod"]
